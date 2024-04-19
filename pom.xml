@@ -15,4 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+    <build>
+    <finalName>spring-boot-demo</finalName>
+  </build>
 </project>
